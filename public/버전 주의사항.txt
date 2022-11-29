@@ -1,0 +1,19 @@
+⭐️⭐️ chart.js -> ie 사용 시 v 2.9.4 ⭐️⭐️
+// version 3부터 ie 지원 X
+
+// homepage
+https://www.chartjs.org/docs/2.9.4/
+
+==== 
+
+npm install --save chart.js@^2.9.4 react-chartjs-2@^2.11.2
+
+====
+
+⭐️⭐️ chart.js 리액트 사용 시 ⭐️⭐️
+
+===
+
+npm install --save chart.js react-chartjs-2
+
+===
