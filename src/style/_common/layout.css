@@ -1,0 +1,40 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+li {
+  padding: 0;
+  margin: 0;
+}
+
+.wrap > header {
+  position: fixed;
+  width: 100vw;
+  background-color: #fff;
+  box-shadow: 0 0 12px rgba(210, 210, 210, 0.2);
+  box-sizing: border-box;
+}
+.wrap > header > div {
+  display: flex;
+  align-items: center;
+  max-width: 1080px;
+  margin: 0 auto;
+  padding: 18px 0 10px;
+}
+.wrap > header > div > h2 {
+  margin-right: 20px;
+}
+.wrap > header > div > p {
+  padding-left: 20px;
+  color: #bbbbbb;
+  font-weight: 600;
+  border-left: 2px solid #bbbbbb;
+}
+.wrap > main {
+  padding-top: 56px;
+  max-width: 1080px;
+  margin: 0 auto;
+}/*# sourceMappingURL=layout.css.map */
